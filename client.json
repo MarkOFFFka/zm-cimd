@@ -1,5 +1,5 @@
 {
-  "client_id": "https://MarkOFFFka.github.io/zm-cimd/client.json",
+  "client_id": "https://markofffka.github.io/zm-cimd/client.json",
   "client_name": "DSH Zenmoney Bridge",
   "client_uri": "https://github.com/MarkOFFFka/zm-cimd",
   "redirect_uris": ["http://127.0.0.1:3334/oauth/callback"],
