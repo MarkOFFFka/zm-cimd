@@ -2,9 +2,17 @@
   "client_id": "https://markofffka.github.io/zm-cimd/client.json",
   "client_name": "DSH Zenmoney Bridge",
   "client_uri": "https://github.com/MarkOFFFka/zm-cimd",
-  "redirect_uris": ["http://127.0.0.1:3334/oauth/callback"],
-  "grant_types": ["authorization_code", "refresh_token"],
-  "response_types": ["code"],
+  "redirect_uris": [
+    "http://127.0.0.1:3334/oauth/callback",
+    "http://localhost:3334/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
   "token_endpoint_auth_method": "none",
   "scope": "all"
 }
